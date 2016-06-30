@@ -1,0 +1,27 @@
+body {
+	background: rgb(200,200,200)
+}
+.column {
+	border: 1px dotted blue;
+	padding: 15px;
+	margin: 0;
+	background: white;
+	padding-top: 20px
+}
+.a {
+	width: 275px;
+	padding-bottom: 50px;
+}
+.b {
+	width: 58%;
+}
+.c {
+	width: 17%;
+	padding-bottom: 250px;
+}
+.Title {
+	color: blue;
+}
+.copyright {
+	text-align: center;
+}
