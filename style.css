@@ -6,18 +6,19 @@ body {
 	padding: 15px;
 	margin: 0;
 	background: white;
-	padding-top: 20px
+	padding-top: 30px
 }
 .a {
 	width: 275px;
-	padding-bottom: 50px;
+	vertical-align: top;
 }
 .b {
 	width: 58%;
 }
 .c {
 	width: 17%;
-	padding-bottom: 250px;
+	vertical-align: top;
+	padding-top: 15px;
 }
 .Title {
 	color: blue;
